@@ -1,0 +1,5 @@
+inherit_from: test/cat.yaml
+training:
+  out_dir:  out/cat_pretrained
+test:
+  model_file: C:/Users/nilsc/IA/Chicag/giraffe-main/out/cats/model.pt
