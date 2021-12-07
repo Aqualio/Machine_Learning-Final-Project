@@ -8,4 +8,5 @@
 * Nils Chol
 * Tim Girard
 
+Note: npz files (representing numpy arrays) are excluded from this repository as they are over 100mb in size 
 

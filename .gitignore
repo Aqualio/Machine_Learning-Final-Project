@@ -9,5 +9,5 @@ out
 *.prof
 .nfs*
 _cache_*
-
+*.npz
 .DS_Store
